@@ -1,1 +1,4 @@
 I am adding a new line to practice conflict resolution.:)
+
+creating a conflict :(
+entering into stash :o
